@@ -1,2 +1,0 @@
-# updver
-Update perl programs
