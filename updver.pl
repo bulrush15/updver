@@ -20,9 +20,12 @@ Copy test program to production, THEN update SUBVER in .pl file.
 
 =head1 LOG
 
-11-17-2014 Put all backups in subdir 'backup'.
+11/17/2014 Put all backups in subdir 'backup'.
 
 7/21/2015 Copy program first, then update SUBVER.
+
+9/1/2015 Fixed bug where backup file wasn't getting copied to 'backup/' subdir.
+
 
 =cut
 
